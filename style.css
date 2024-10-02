@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    background: black;
+}
+
+body h3{
+    font-size: 55px;
+    color: red;
+    margin: 20px;
+}
+
+#myButton{
+    background:gold;
+    color:black;
+    border: 10px solid;
+    border-radius: 15px;
+    padding: 10px;
+    font-size: 40px;
+}
+
+.labelContainer{
+    font-size: 50px;
+    color: aliceblue;
+}
